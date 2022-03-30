@@ -6,7 +6,7 @@
 
 'use strict'
 /**
- * This function calculates area and perimeter of rectangle.
+ * This function calculates tax based on your hours worked and hourly salary
  */
 function calculate () {
   // input
